@@ -25,9 +25,10 @@ Build the back end for an e-commerce site. Take a working Express.js API and con
 
 
 The following link is the video record of application's functionalities:
-[Set up database](https://calip.io/PEvQ6r9t#8tq8Cfnf)
-[GET, POST, PUT, and DELETE routes for products](https://calip.io/dNmQnojT#aw52XRdG)
-[GET, POST, PUT, and DELETE routes for categories and tags](https://calip.io/FSMV3gWP#H1Nn2yWG)
+
+- [Set up database](https://calip.io/PEvQ6r9t#8tq8Cfnf)
+- [GET, POST, PUT, and DELETE routes for products](https://calip.io/dNmQnojT#aw52XRdG)
+- [GET, POST, PUT, and DELETE routes for categories and tags](https://calip.io/FSMV3gWP#H1Nn2yWG)
 
 
 
